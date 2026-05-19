@@ -1,4 +1,6 @@
 # 🏠 SMART AUTO-ASSIST HOME SAFETY SYSTEM
+<img width="720" height="491" alt="12" src="https://github.com/user-attachments/assets/de3cfc25-cbb0-4e2b-908e-f79af90ba4f7" />
+
 
 ### ESP32 + ESP32-S3-BOX3 Hackathon Project
 
